@@ -1,6 +1,6 @@
 # gmp-gyp
 
-**gmp-gyp** is a [gyp](http://code.google.com/p/gyp/)-enabled [The GNU Multiple Precision Arithmetic LIbrary](http://gmplib.org/).
+**gmp-gyp** is a [gyp](http://code.google.com/p/gyp/)-enabled [The GNU Multiple Precision Arithmetic Library](http://gmplib.org/).
 Currently using gmp-5.0.5 from [the project page](http://gmplib.org/).
 
 It generates
